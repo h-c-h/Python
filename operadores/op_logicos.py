@@ -18,4 +18,7 @@ Resultado8 = False | False #DEVUELVE FALSO
 Resultado9 = not True # DEVUELVE FALSO
 Resultado10 = not False # DEVUELVE TRUE
 
-print(Resultado7)
+print(Resultado9)
+
+#ejemplos
+#Resultado0 = not 9<8 -> esto devuelve True
