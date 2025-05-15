@@ -28,6 +28,7 @@ print(primer_letra_mayuscula)
 
 #find
 #lo que hace es buscar el valor que le pidamos 
+# y nos dicen en que posicion esta
 #ejemplo buscamos una cadena en otra cadena
 #si no hay coincidencias devuelve "-1"
 busqueda_find = cadena1.find("o")
