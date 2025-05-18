@@ -20,8 +20,8 @@ print(lista[1])#->Porque no me dio como elemento 1 Juan Zavala
 
 #Elemento1->"Juan Zavala"->lista[0]
 #Porque "Juan Zavala" no puede ser el elemento 0 .¿Por qué? porque el
-#elemento 0 no existe entonces vendria hacer el elemento 1 
-# que está alojado en el indice 0. Entonces, cuando nos referimos a
+#elemento 0 no existe, entonces vendria hacer el elemento 1 
+#que está alojado en el indice 0. Entonces, cuando nos referimos a
 #índice es que posición esta. porque esto tiene posiciones.
 #El indice 0 es la posción 0, el índice 1 es la posición 1 y asi
 #sucesivamente.Entonces la posición es el índice y después esta el 
@@ -60,7 +60,7 @@ conjunto ={"Juan Zavala","Buenos Dias",True,1.75}
 #la diferencia de un conjunto es que no tiene un orden fijo
 #son elementos desordenados que pueden cambiar 
 #digas "Juan Zavala" puede estar donde esta "Buenos Dias".
-#En conjunto se puede modificar solo que los elementos no
+#En conjunto se puede modificar solo que los elementos no,
 #es decir que se comporta como una tupla no podemos modificar elementos
 #pero si podemos reconstruir.
 
