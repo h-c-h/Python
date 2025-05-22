@@ -10,6 +10,7 @@ print(cantidad_elementos)
 
 #append
 #lo que hace es agregar elementos a una lista
+#append solo acepta un argumento
 lista.append("mmmmmm")
 print(lista)
 
